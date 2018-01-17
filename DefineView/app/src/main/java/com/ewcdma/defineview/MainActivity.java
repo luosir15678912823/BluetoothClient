@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e(TAG, "onCreate: MainActivity" );
+        Log.e(TAG, "onCreate: MainActivity 1212" );
 
     }
 }
